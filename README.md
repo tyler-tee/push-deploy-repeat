@@ -53,8 +53,8 @@ pip install -r requirements.txt
 ```
 
 ### 4. **Configure the Secret Key**  
-1. Navigate to the `config` folder.  
-2. Create a file named `update_config.json` with the following content:
+1. Open the existing config/update_config.json file.
+2. Replace the placeholder secret token with your desired secret token:
 
 ```json
 {
