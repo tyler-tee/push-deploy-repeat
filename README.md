@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## **How It Works**  
 1. **GitHub Webhook Setup:**  
-   - GitHub sends a POST request to the server’s `/webhook/update_server` endpoint on every push to the `main` branch.
+   - GitHub sends a POST request to the server’s `/update_server` endpoint on every push to the `main` branch.
 
 2. **IP Validation:**  
    - The server verifies that the request originated from GitHub by checking the IP range.
