@@ -104,7 +104,7 @@ pip install -r requirements.txt
      ```
 
 4. **Check the Server Logs:**  
-   - Ensure the server receives the webhook and pulls the latest code successfully.
+   - Ensure the server receives the event and pulls the latest code successfully.
 
 ---
 
