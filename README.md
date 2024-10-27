@@ -1,6 +1,6 @@
 # **Push, Deploy, Repeat: Automating Server Updates with GitHub Webhooks 🚀**  
 
-This repository accompanies the article _["Push, Deploy, Repeat: Automating Server Updates with GitHub Webhooks"](https://your-article-link)_. It demonstrates how to automatically update a server every time a new commit is pushed to the `main` branch of a GitHub repository, using Flask and webhooks.
+This repository accompanies the article _["Push, Deploy, Repeat: Automating Server Updates with GitHub Webhooks"](https://lambdasandlapdogs.com/)_. It demonstrates how to automatically update a server every time a new commit is pushed to the `main` branch of a GitHub repository, using Flask and webhooks.
 
 ## **Table of Contents**  
 - [**Push, Deploy, Repeat: Automating Server Updates with GitHub Webhooks 🚀**](#push-deploy-repeat-automating-server-updates-with-github-webhooks-)
